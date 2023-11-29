@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&family=Lisu+Bosa:wght@200&family=Monoton&family=Pinyon+Script&family=Press+Start+2P&family=Qwitcher+Grypen&family=Roboto:wght@300&family=Rubik+Iso&family=Sedgwick+Ave+Display&family=Tektur:wght@400;500&family=Tilt+Prism&display=swap');
+
+
+.title-home {
+ position: absolute;
+ top: 47%;
+ left: 8.70%;
+ font-size: 80px;
+ font-family: 'Jacques Francois Shadow', sans-serif;
+}
+
+.introduce-home {
+  position: absolute;
+  width: 430px;
+  height: 70px;
+  left: 120px;
+  top: 430px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 14px;
+
+  color: #000000;
+
+
+}
+.nav-bar{
+position: absolute;
+left:54%;
+}
+.tab-bar{
+  color: #000000;
+  margin-left: 30%;
+}
