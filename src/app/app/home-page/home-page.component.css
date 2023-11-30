@@ -31,3 +31,6 @@
   left: 60%;
   right: 80%;
 }
+.main-container {
+    overflow: hidden;
+  }

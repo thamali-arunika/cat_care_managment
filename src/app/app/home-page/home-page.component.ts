@@ -13,6 +13,7 @@ constructor(){}
   ngOnInit(){
 
   }
-url="./assets/images/Picture-Home .png";
+url1="./assets/images/Picture-Home .png";
+url2="./assets/images/Logo_Homepage.png";
 
 }
